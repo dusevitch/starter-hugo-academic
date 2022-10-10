@@ -35,6 +35,8 @@ content:
       tag: mechatronics
     - name: Other
       tag: other
+    - name: CAD
+      tag: CAD
     - name: All
       tag: '*'
 
