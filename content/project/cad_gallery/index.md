@@ -1,6 +1,6 @@
 ---
-title: Gallery of Several CAD Projects
-summary: This includes various CAD projects David has worked on over the years including explanations.
+title: Gallery of CAD Projects
+summary: This includes a few CAD projects David has worked on over the years including explanations.
 tags:
   - cad
 date: '2022-10-10T00:00:00Z'
@@ -30,7 +30,7 @@ url_video:
 # slides: example
 ---
 
-David has worked on a number of CAD projects over the years, almost primarily in Solidworks, with a few at the beginning of his undergradaute studies in Autodesk Inventor. Here are a few of those projects listed with some explanations separated into general years of study.
+David has worked on a number of CAD projects over the years, almost primarily in Solidworks, with a few at the beginning of his undergraduate studies in Autodesk Inventor. Here are a few of those projects listed with some explanations separated into general years of study.
 
 ---
 ### Professional

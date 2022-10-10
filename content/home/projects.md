@@ -36,7 +36,7 @@ content:
     - name: Other
       tag: other
     - name: CAD
-      tag: CAD
+      tag: cad
     - name: All
       tag: '*'
 
